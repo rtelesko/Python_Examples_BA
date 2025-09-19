@@ -14,6 +14,7 @@ def main():
     else:
         print(f'{search} was not found in the list.')
 
+
 # Call the main function.
 if __name__ == '__main__':
     main()

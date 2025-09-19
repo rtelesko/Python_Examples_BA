@@ -7,17 +7,20 @@ def main():
     # Call the california function.
     california()
 
+
 # Definition of the texas function. It creates
 # a local variable named birds.
 def texas():
     birds = 5000
     print(f'texas has {birds} birds.')
 
+
 # Definition of the california function. It also
 # creates a local variable named birds.
 def california():
     birds = 8000
     print(f'california has {birds} birds.')
+
 
 # Call the main function.
 main()

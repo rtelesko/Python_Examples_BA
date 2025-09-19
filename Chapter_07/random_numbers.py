@@ -6,6 +6,7 @@ import random
 ROWS = 3
 COLS = 4
 
+
 def main():
     # Create a two-dimensional list.
     values = [[0, 0, 0, 0],
@@ -19,6 +20,7 @@ def main():
 
     # Display the random numbers.
     print(values)
+
 
 # Call the main function.
 if __name__ == '__main__':

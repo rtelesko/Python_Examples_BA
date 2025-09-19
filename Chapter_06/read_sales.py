@@ -21,9 +21,10 @@ def main():
 
         # Read the next line.
         line = sales_file.readline()
-        
+
     # Close the file.
     sales_file.close()
+
 
 # Call the main function.
 if __name__ == '__main__':

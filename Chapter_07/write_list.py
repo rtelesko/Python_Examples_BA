@@ -9,6 +9,7 @@ def main():
         for item in cities:
             outfile.write(item + '\n')
 
+
 # Call the main function.
 if __name__ == '__main__':
     main()

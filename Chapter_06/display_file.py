@@ -13,6 +13,7 @@ def main():
         # Display the file's contents.
         print(contents)
 
+
 # Call the main function.
 if __name__ == '__main__':
     main()
